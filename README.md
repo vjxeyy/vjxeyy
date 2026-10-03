@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,py,js,html,css,mysql,git,github,vercel,vscode" alt="Tech stack icons" />
+<p><img src="https://skillicons.dev/icons?i=c,py,js,html,css,mysql,git,github,vercel,vscode" alt="Tech stack icons" /></p>
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
