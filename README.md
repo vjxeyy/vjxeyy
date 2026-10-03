@@ -57,10 +57,19 @@
 
 ---
 
+### 🔨 Currently Building
+
+* 🌐 Improving my web development skills
+* 🤖 Exploring AI/ML and AI-powered applications
+* 💻 Strengthening C, Python & DSA fundamentals
+* 🚀 Building projects and participating in hackathons
+
+---
+
 ### 🗺️ Career Roadmap
 
 * 🟩 **[done]** Built and deployed my first web app (College Timetable) on Vercel.
-* 🔵 **[in progress]** Strengthening my fundamentals in C and Python, and starting Data Structures & Algorithms.
+* 🔵 **[in progress]** Strengthening my fundamentals in C and starting Data Structures & Algorithms.
 * 🎯 **[goal]** Learn machine learning and build my first AI-powered project.
 * 🚀 **[long-term]** Work as a professional **AI/ML Engineer**.
 
