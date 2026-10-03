@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayvarshanp/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vjxeyy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vijayvarshan4.pk@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=vjxeyy&color=7aa2f7&style=flat-square&label=Profile+Views)
 
 ---
 
@@ -17,6 +18,10 @@
 * ⚡ Fun fact: I wrote my first Python programs back in **7th grade**.
 
 ### 🛠️ Tech Stack & Tooling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,py,js,html,css,git,github,vercel,vscode" alt="Tech stack icons" />
+</p>
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
@@ -53,10 +58,6 @@
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vjxeyy&color=7aa2f7&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vjxeyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com?user=vjxeyy&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
@@ -74,6 +75,8 @@
     <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/vjxeyy/vjxeyy/output/github-snake.svg" />
   </picture>
 </p>
+
+---
 
 ### 🤝 Connect With Me
 
