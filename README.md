@@ -56,6 +56,15 @@
 
 ---
 
+### 🗺️ Career Roadmap
+
+* 🟩 **[done]** Built and deployed my first web app (College Timetable) on Vercel.
+* 🔵 **[in progress]** Strengthening my fundamentals in C and Python, and starting Data Structures & Algorithms.
+* 🎯 **[goal]** Learn machine learning and build my first AI-powered project.
+* 🚀 **[long-term]** Work as a professional **AI/ML Engineer**.
+
+---
+
 ### 🏆 Achievements & Learning Goals
 
 * 🚀 Participating in hackathons as a first-year student
