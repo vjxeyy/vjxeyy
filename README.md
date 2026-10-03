@@ -1,4 +1,4 @@
-# Hi there, I'm Vijayvarshan 👋
+# Hi there, I'm Vijayvarshan P 👋
 
 ### CSE Student | Learning C & Python | Building & Shipping Web Apps
 
