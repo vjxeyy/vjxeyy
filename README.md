@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayvarshanp/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vijayvarshan4.pk@gmail.com)
+![Joined GitHub](https://img.shields.io/date/1721201857?label=Joined%20GitHub&style=flat-square&color=7aa2f7&logo=github)
 
 ---
 
