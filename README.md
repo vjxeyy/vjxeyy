@@ -55,6 +55,14 @@
 
 ---
 
+### 🏆 Achievements & Learning Goals
+
+* 🚀 Participating in hackathons as a first-year student
+* 📚 Goal: build strong foundations in Python, DSA, and AI
+* 🎯 Goal: grow into AI / prompt engineering
+
+---
+
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
