@@ -66,14 +66,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjxeyy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
 </p>
 
-#### 🐍 Contribution Activity
+#### 📅 Contribution Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vjxeyy/vjxeyy/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vjxeyy/vjxeyy/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/vjxeyy/vjxeyy/output/github-snake.svg" />
-  </picture>
+  <img src="https://ghchart.rshah.org/7aa2f7/vjxeyy" alt="Contribution graph" />
 </p>
 
 ---
