@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 Computer Science & Engineering student based in **Chennai, India**.
+* 🎓 **What I Study:** Pursuing a Bachelor of Engineering (B.E.) in Computer Science and Engineering at **St. Joseph's College of Engineering, Chennai**.
 * 🚀 Participating in **college hackathons** and building projects alongside my studies.
 * 🤖 Interested in **AI/ML, prompt engineering, and AI-powered development**.
 * 💻 Ask me about **C, Python, Git, GitHub, and building projects with AI coding tools**.
