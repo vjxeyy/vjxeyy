@@ -1,20 +1,24 @@
 # Hi there, I'm Vijayvarshan P 👋
 
-### CSE Student | Learning C & Python | Building & Shipping Web Apps
+### 👨‍💻 First-Year CSE Student | Aspiring AI/ML Engineer | Building & Shipping Web Apps with AI Coding Tools
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayvarshanp/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vjxeyy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vijayvarshan4.pk@gmail.com)
 
 ---
 
-### 👨‍💻 About Me
+### 📖 About Me
 
-* 🎓 Computer Science & Engineering student based in **Chennai, India**.
-* 🚀 Participating in **college hackathons** and building projects alongside my studies.
-* 🤖 Interested in **AI/ML, prompt engineering, and AI-powered development**.
-* 💻 Ask me about **C, Python, Git, GitHub, and building projects with AI coding tools**.
-* 🌱 Exploring **web development, DSA, and software development** while strengthening my fundamentals.
-* ⚡ Fun fact: I started learning Python back in **7th grade** after getting interested in programming.
+* 🎓 **What I Study:** Pursuing a Bachelor of Engineering (B.E.) in Computer Science and Engineering at St. Joseph's College of Engineering, Chennai.
+* 🚀 **Core Target:** Working toward becoming an **AI/ML Engineer**.
+* 🛠️ **Project Pride:** Built and shipped a **College Timetable planner**, live on Vercel.
+* 📚 **Currently Learning:** C fundamentals (arrays, dynamic input handling), Python, web development and DSA.
+* 🤖 **Interests:** AI/ML, prompt engineering, and AI-powered development.
+* 💬 **Ask me about:** C, Python, Git, GitHub, and building projects with AI coding tools.
+* ⚡ **Fun fact:** I started learning Python back in 7th grade after getting interested in programming.
+
+---
 
 ### 🛠️ Tech Stack & Tooling
 
@@ -34,7 +38,7 @@
 
 ---
 
-### 📌 Featured Projects
+### 📌 Featured Repositories
 
 #### 📅 [College Timetable](https://github.com/vjxeyy/college-timetable)
 *A weekly timetable planner for college students.*
@@ -56,11 +60,20 @@
 
 ---
 
-### 🏆 Achievements & Learning Goals
+### 🗺️ Career Roadmap
 
-* 🚀 Participating in hackathons as a first-year student
-* 📚 Goal: build strong foundations in Python, DSA, and AI
-* 🎯 Goal: grow into AI / prompt engineering
+* 🟩 **[done]** Built and deployed my first web app (College Timetable) on Vercel and set up my GitHub profile.
+* 🔵 **[in progress]** Strengthening my fundamentals in C and Python, and starting Data Structures & Algorithms.
+* 🎯 **[goal]** Learn machine learning fundamentals with Python and build my first AI-powered project.
+* 🚀 **[long-term]** Graduate with a B.E. in CSE and work as a professional **AI/ML Engineer**.
+
+---
+
+### 🏆 Certifications & Achievements
+
+* 🏅 **Bachelor of Engineering (B.E.) Candidate**, Computer Science and Engineering — *St. Joseph's College of Engineering*
+* 🚀 **Hackathons:** Participating in college hackathons as a first-year student.
+* 📜 **Foundational Track:** Working toward certifications in Python programming and AI/ML fundamentals.
 
 ---
 
@@ -77,7 +90,7 @@
 
 ---
 
-### 🤝 Connect With Me
+### 📬 Connect With Me
 
 * Always happy to team up on hackathons, student projects, or open-source tools.
 * Reach out via [LinkedIn](https://www.linkedin.com/in/vijayvarshanp/) or email me at `vijayvarshan4.pk@gmail.com`.
