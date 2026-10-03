@@ -40,8 +40,9 @@
 *A weekly timetable planner for college students.*
 * Add subjects, time slots and rooms, then assign classes to a Monday–Saturday grid.
 * Built with plain HTML, CSS and JavaScript, no frameworks, and deployed on Vercel.
+* 🤖 Vibe-coded with **Claude Code**: I described what I wanted, guided the AI, and tested and shipped the result.
 * 🔗 **Live:** [college-timetable-vjxeyy.vercel.app](https://college-timetable-vjxeyy.vercel.app)
-* `HTML` • `CSS` • `JavaScript` • `Vercel`
+* `HTML` • `CSS` • `JavaScript` • `Vercel` • `Claude Code` • `Vibe Coding`
 
 #### 💻 [C-Programming](https://github.com/vjxeyy/C-Programming)
 *My C programming learning journey.*
