@@ -46,16 +46,12 @@
 * 🔗 **Live:** [college-timetable-vjxeyy.vercel.app](https://college-timetable-vjxeyy.vercel.app)
 * `HTML` • `CSS` • `JavaScript` • `Vercel` • `Claude Code` • `Vibe Coding`
 
-#### 💻 [C-Programming](https://github.com/vjxeyy/C-Programming)
-*My C programming learning journey.*
-* Concepts, practice programs and small projects, built up one topic at a time.
-* Covers array operations, dynamic user input handling and core fundamentals.
-* `C` • `Fundamentals` • `Learning in Public`
-
-#### 🐍 [learnpythontutorials](https://github.com/vjxeyy/learnpythontutorials)
-*My Python learning journey, started in 7th grade.*
-* Practice programs and tutorials from my very first steps in programming.
-* `Python` • `Beginner` • `Learning in Public`
+#### 🎵 [Music Playlist Organizer](https://github.com/vjxeyy/music-playlist-organizer)
+*My Class 12 Board Computer Science project.*
+* Menu-driven app to add, search, update and delete songs and organise them into playlists.
+* Python front-end with a MySQL back-end: database connectivity, CRUD operations and foreign keys.
+* 🤖 Built with the help of **ChatGPT**.
+* `Python` • `MySQL` • `SQL` • `Class 12 Project`
 
 ---
 
