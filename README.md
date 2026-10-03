@@ -10,10 +10,11 @@
 ### 👨‍💻 About Me
 
 * 🎓 Computer Science & Engineering student based in **Chennai, India**.
-* 🌱 Currently learning **C programming**: arrays, dynamic input handling and the fundamentals underneath everything else.
-* 🚀 Built and shipped a **College Timetable planner**, live on Vercel.
-* 💬 Ask me about **Git, deploying on Vercel, and building fast with AI coding tools**.
-* ⚡ Fun fact: I wrote my first Python programs back in **7th grade**.
+* 🚀 Participating in **college hackathons** and building projects alongside my studies.
+* 🤖 Interested in **AI/ML, prompt engineering, and AI-powered development**.
+* 💻 Ask me about **C, Python, Git, GitHub, and building projects with AI coding tools**.
+* 🌱 Exploring **web development, DSA, and software development** while strengthening my fundamentals.
+* ⚡ Fun fact: I started learning Python back in **7th grade** after getting interested in programming.
 
 ### 🛠️ Tech Stack & Tooling
 
