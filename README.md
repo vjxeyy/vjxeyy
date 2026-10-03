@@ -23,9 +23,11 @@
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | C, Python, HTML, CSS, JavaScript |
+| **Languages** | C, Python |
+| **Web** | HTML, CSS, JavaScript |
 | **Database** | MySQL |
 | **AI & Prompting** | Prompt engineering, working with Claude Code & Codex |
+| **AI-Assisted Dev** | Claude Code |
 | **Deployment** | Vercel |
 | **Version Control** | Git, GitHub |
 
