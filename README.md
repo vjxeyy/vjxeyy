@@ -18,9 +18,11 @@
 
 ### 🛠️ Tech Stack & Tooling
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,py,js,html,css,mysql,git,github,vercel,vscode" alt="Tech stack icons" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,py,js,html,css,mysql,git,github,vercel,vscode" alt="Tech stack icons" />
+
+<br /><br />
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
@@ -31,6 +33,8 @@
 | **AI-Assisted Dev** | Claude Code |
 | **Deployment** | Vercel |
 | **Version Control** | Git, GitHub |
+
+</div>
 
 ---
 
