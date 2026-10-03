@@ -86,12 +86,15 @@
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vjxeyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=vjxeyy&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vjxeyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="72%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjxeyy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
+  <img src="https://streak-stats.demolab.com?user=vjxeyy&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="72%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjxeyy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="54%" />
 </p>
 
 ---
