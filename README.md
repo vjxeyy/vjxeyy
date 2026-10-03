@@ -18,16 +18,16 @@
 ### 🛠️ Tech Stack & Tooling
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,py,js,html,css,git,github,vercel,vscode" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=c,py,js,html,css,mysql,git,github,vercel,vscode" alt="Tech stack icons" />
 </p>
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | C, Python, JavaScript |
-| **Web** | HTML, CSS, JavaScript |
+| **Languages** | C, Python, HTML, CSS, JavaScript |
+| **Database** | MySQL |
+| **AI & Prompting** | Prompt engineering, working with Claude Code & Codex |
 | **Deployment** | Vercel |
 | **Version Control** | Git, GitHub |
-| **AI-Assisted Dev** | Claude Code |
 
 ---
 
