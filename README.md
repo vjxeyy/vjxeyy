@@ -64,12 +64,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjxeyy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
 </p>
 
-#### 📅 Contribution Activity
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/7aa2f7/vjxeyy" alt="Contribution graph" />
-</p>
-
 ---
 
 ### 🤝 Connect With Me
