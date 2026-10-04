@@ -11,9 +11,9 @@
 
 * 🎓 **What I Study:** Pursuing a Bachelor of Engineering (B.E.) in Computer Science and Engineering at **St. Joseph's College of Engineering, Chennai**.
 * 🚀 Participating in **college hackathons** and building projects alongside my studies.
-* 🤖 Interested in **AI/ML, prompt engineering, and AI-powered development**.
-* 💻 Ask me about **C, Python, Git, GitHub, and building projects with AI coding tools**.
-* 🌱 Exploring **web development, DSA, and software development** while strengthening my fundamentals.
+* 🤖 Interested in **AI/ML, prompt engineering and AI-powered development**.
+* 💻 Ask me about **C, Python, Git, GitHub and building projects with AI coding tools**.
+* 🌱 Exploring **web development, DSA and software development** while strengthening my fundamentals.
 * ⚡ Fun fact: I started learning Python back in **7th grade** after getting interested in programming.
 
 ### 🛠️ Tech Stack & Tooling
@@ -45,15 +45,15 @@
 #### 📅 [College Timetable](https://github.com/vjxeyy/college-timetable)
 *A weekly timetable planner for college students.*
 * Add subjects, time slots and rooms, then assign classes to a Monday–Saturday grid.
-* Built with plain HTML, CSS and JavaScript, no frameworks, and deployed on Vercel.
+* Built with plain HTML, CSS and JavaScript (no frameworks) and deployed on Vercel.
 * 🤖 Vibe-coded with **Claude Code**: I described what I wanted, guided the AI, and tested and shipped the result.
 * 🔗 **Live:** [college-timetable-vjxeyy.vercel.app](https://college-timetable-vjxeyy.vercel.app)
 * `HTML` • `CSS` • `JavaScript` • `Vercel` • `Claude Code` • `Vibe Coding`
 
 #### 🎵 [Music Playlist Organizer](https://github.com/vjxeyy/music-playlist-organizer)
 *My Class 12 Board Computer Science project.*
-* Menu-driven app to add, search, update and delete songs and organise them into playlists.
-* Python console application connected to a MySQL database: database connectivity, CRUD operations and foreign keys.
+* Menu-driven app to add, search, update and delete songs and organize them into playlists.
+* A Python console application connected to a MySQL database, covering database connectivity, CRUD operations and foreign keys.
 * 🤖 Built with the help of **ChatGPT**.
 * `Python` • `MySQL` • `SQL` • `Class 12 Project`
 
@@ -61,10 +61,10 @@
 
 ### 🔨 Currently Building
 
-* 🌐 Improving my web development skills
-* 🤖 Exploring AI/ML and AI-powered applications
-* 💻 Strengthening C, Python & DSA fundamentals
-* 🚀 Building projects and participating in hackathons
+* 🌐 Improving my web development skills.
+* 🤖 Exploring AI/ML and AI-powered applications.
+* 💻 Strengthening my C, Python and DSA fundamentals.
+* 🚀 Building projects and participating in hackathons.
 
 ---
 
@@ -73,15 +73,15 @@
 * 🟩 **[done]** Built and deployed my first web app (College Timetable) on Vercel.
 * 🔵 **[in progress]** Strengthening my fundamentals in C and starting Data Structures & Algorithms.
 * 🎯 **[goal]** Learn machine learning and build my first AI-powered project.
-* 🚀 **[long-term]** Work as a professional **AI/ML Engineer**.
+* 🚀 **[long-term]** Work as a professional **AI/ML engineer**.
 
 ---
 
 ### 🏆 Achievements & Learning Goals
 
-* 🚀 Participating in hackathons as a first-year student
-* 📚 Goal: build strong foundations in Python, DSA, and AI
-* 🎯 Goal: grow into AI / prompt engineering
+* 🚀 Participating in hackathons as a first-year student.
+* 📚 Goal: build strong foundations in Python, DSA and AI.
+* 🎯 Goal: build a career in AI and prompt engineering.
 
 ---
 
@@ -107,5 +107,5 @@
 
 ### 🤝 Connect With Me
 
-* Always happy to team up on hackathons, student projects, or open-source tools.
+* Always happy to team up on hackathons, student projects or open-source tools.
 * Reach out via [LinkedIn](https://www.linkedin.com/in/vijayvarshanp/) or email me at `vijayvarshan4.pk@gmail.com`.
