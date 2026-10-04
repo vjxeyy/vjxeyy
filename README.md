@@ -38,8 +38,6 @@
 
 </div>
 
-<br>
-
 ---
 
 ### 📌 Featured Projects
