@@ -73,7 +73,7 @@
 * 🟩 **[done]** Built and deployed my first web app (College Timetable) on Vercel.
 * 🔵 **[in progress]** Strengthening my fundamentals in C and starting Data Structures & Algorithms.
 * 🎯 **[goal]** Learn machine learning and build my first AI-powered project.
-* 🚀 **[long-term]** Work as a professional **AI/ML engineer**.
+* 🚀 **[long-term]** Work as an **AI engineer**, building AI-powered applications.
 
 ---
 
