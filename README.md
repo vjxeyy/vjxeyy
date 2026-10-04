@@ -20,7 +20,11 @@
 
 <div align="center">
 
+<br>
+
 <p><img src="https://skillicons.dev/icons?i=c,py,js,html,css,mysql,git,github,vercel,vscode" alt="Tech stack icons" /></p>
+
+<br>
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
@@ -33,6 +37,8 @@
 | **Version Control** | Git, GitHub |
 
 </div>
+
+<br>
 
 ---
 
@@ -83,6 +89,8 @@
 
 ### 📊 GitHub Activity & Metrics
 
+<br>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vjxeyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="72%" />
 </p>
@@ -94,6 +102,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjxeyy&layout=compact&theme=tokyonight&hide_border=true&card_width=467" alt="Top Languages" width="72%" />
 </p>
+
+<br>
 
 ---
 
