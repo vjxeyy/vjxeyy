@@ -49,7 +49,7 @@
 #### 🎵 [Music Playlist Organizer](https://github.com/vjxeyy/music-playlist-organizer)
 *My Class 12 Board Computer Science project.*
 * Menu-driven app to add, search, update and delete songs and organise them into playlists.
-* Python front-end with a MySQL back-end: database connectivity, CRUD operations and foreign keys.
+* Python console application connected to a MySQL database: database connectivity, CRUD operations and foreign keys.
 * 🤖 Built with the help of **ChatGPT**.
 * `Python` • `MySQL` • `SQL` • `Class 12 Project`
 
